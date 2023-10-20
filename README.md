@@ -30,6 +30,8 @@ print("The swapped values are")
 
 ```
 ## Output:
+![image](https://github.com/Reklies/Swapping-two-values/assets/147139232/6346a2c0-da3e-409e-8a5f-8b2b952b2562)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
